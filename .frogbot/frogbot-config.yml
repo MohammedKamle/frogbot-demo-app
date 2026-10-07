@@ -1,0 +1,9 @@
+- params:
+    git:
+      repoName: frogbot-demo-app
+      branches:
+        - main
+    scan:
+      projects:
+        - workingDirs:
+            - "."
